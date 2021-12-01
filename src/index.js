@@ -1,3 +1,4 @@
+import './style/index.scss';
 const person = {
     first_name: "Mohd",
     last_name: "Amir",
